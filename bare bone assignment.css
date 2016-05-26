@@ -6,6 +6,17 @@ p {
 .tiny {
 	font-size: 16px
 }
+h1{
+	padding: 40px;
+	margin: 20px;
+	border-style: dashed
+	border-width: center;
+	text-align: 5px;
+}
+body{
+	margin-left: 2%;
+	margin-right: 2%;
+}
 
 h2 {
 	font-weight: bold
@@ -17,4 +28,9 @@ h3 {
 
 h4{
 	font-weight: bold
+}
+.center{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
 }
