@@ -1,3 +1,9 @@
+body{
+	margin-left: 2%;
+	margin-right: 2%;
+	background-color: silver;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
