@@ -10,8 +10,8 @@ p {
 h1{
 	padding: 40px;
 	margin: 20px;
-	border-style: doubled;
-	border-width: 10px;
+	border-style: double;
+	border-width: center;
 	text-align: 5px;
 	margin-top: 3em;
 }
