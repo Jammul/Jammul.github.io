@@ -1,7 +1,6 @@
 p {
 	color: green;
 	font-size: 20px;
-	font-family: "pizzabot", robotstyle, Serif;
 }
 
 .tiny {
@@ -15,6 +14,7 @@ h1{
 	border-width: center;
 	text-align: 5px;
 	margin-top: 3em;
+	font-family: "pizzabot", robotstyle, Serif;
 }
 
 body{
